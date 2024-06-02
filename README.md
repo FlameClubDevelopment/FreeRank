@@ -1,2 +1,2 @@
-# FreeRank
-AstralMC's based /freerank system.
+# FreeRank Plugin [1.7-1.20]
+ Simple /FreeRank plugin
