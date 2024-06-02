@@ -1,0 +1,9 @@
+name: FreeRank
+version: '${project.version}'
+main: us.firemc.freerank.FreeRank
+authors: [ HCFAlerts ]
+website: dsc.gg/flameclubdevelopment
+description: Simple /FreeRank Plugin
+commands:
+  freerank:
+    description: /FreeRank Command
